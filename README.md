@@ -1,4 +1,4 @@
 HW-8
 ====
 
-Tarea 6 de Física computacional. Autores: Mateo Restrepo - Jesus Rincón
+COmputational physics homework 8 - Markov chaon monte carlo parameter estimation.
